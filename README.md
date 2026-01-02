@@ -1,4 +1,4 @@
-## Hi, I’m Caitlin 👋
+## Hi, I’m Caitlin 
 
 I’m an **ECE undergraduate at IIITDM Kancheepuram**,  
 also pursuing a **BS in Data Science and Applications from IIT Madras**.
