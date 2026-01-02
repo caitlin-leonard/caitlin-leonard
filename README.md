@@ -15,9 +15,9 @@ I enjoy hands-on experimentation and research-oriented problem solving, and I am
 - AI for Healthcare  
 
 ---
-
-### 🛠️ Tools
-**Python · PyTorch · TensorFlow · OpenCV · scikit-learn · NumPy · Pandas · MATLAB · Git · Docker**
+🛠️ Tools
+Machine Learning · Computer Vision · Python · Deep Learning
+PyTorch · TensorFlow · scikit-learn · OpenCV · NumPy · Pandas · Docker
 
 ---
 
