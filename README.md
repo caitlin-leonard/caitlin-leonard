@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/x.gif"
+  <img src="x.gif"
        alt="AI for Healthcare"
        width="32%">
 </p>
