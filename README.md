@@ -18,13 +18,13 @@ I’m an **ECE undergraduate at IIITDM Kancheepuram** and a
 **BS Data Science & Applications student at IIT Madras**, currently a  
 **Research Intern at IIT Madras**.
 
-I’m interested in building **data-driven and intelligent systems**, with experience across  
+I’m focused in building **data-driven and intelligent systems**, with experience across  
 **machine learning, signal processing, and computer vision**, and applications in  
 **healthcare and other real-world problem domains**.
 
 ---
 
-### Areas of Interest
+### Areas of Focus
 - **Machine Learning & Deep Learning**
 - **Signal Processing & Time-Series Analysis**
 - **Computer Vision**
