@@ -10,7 +10,7 @@ I’m an **ECE undergrad at IIITDM Kancheepuram** and a **BS Data Science and Ap
 
 ---
 
-### 🔍 Interests
+### 🔍 Focus
 - Machine Learning & Deep Learning
 - Computer Vision
 - AI for Healthcare
