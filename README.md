@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/welcome.jpg"
+  <img src="assets/x.gif"
        alt="Caitlin – ECE & Data Science | AI for Healthcare"
        width="45%">
 </p>
