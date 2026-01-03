@@ -25,7 +25,7 @@ I work at the intersection of **machine learning and healthcare**, focusing on
 
 ### Focus Areas
 - Medical AI & Clinical Decision Support  
-- Biomedical Signal Processing (ECG, physiological data)  
+- Signal Processing 
 - Computer Vision for Medical Imaging  
 - Machine Learning & Deep Learning  
 
