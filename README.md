@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="assets/x.gif"
-       alt="Caitlin – ECE & Data Science | AI for Healthcare"
-       width="45%">
-</p>
+<img src="assets/x.gif"
+     alt="AI for Healthcare"
+     width="32%">
+
 
 ## Hi, I’m Caitlin 
 
