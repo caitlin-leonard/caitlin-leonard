@@ -6,14 +6,7 @@
 
 ## Hi, I’m Caitlin 
 
-I’m an **ECE undergraduate at IIITDM Kancheepuram** and a **BS Data Science and Applications student at IIT Madras**, currently working as a **Research Intern at IIT Madras** with interests in **AI for healthcare, machine learning, and computer vision**.
-
----
-
-### 🔍 Interests
-- Machine Learning & Deep Learning
-- Computer Vision
-- AI for Healthcare
+I’m an **ECE undergraduate at IIITDM Kancheepuram** and a **BS Data Science and Applications student at IIT Madras**, currently working as a **Research Intern at IIT Madras** with focus on in **AI for healthcare, machine learning, and computer vision**.
 
 ---
 
