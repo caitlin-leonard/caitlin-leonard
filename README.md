@@ -1,12 +1,19 @@
 <p align="center">
-  <img src="assets/photo.jpg"
+  <img src="assets/welcome.jpg"
        alt="Caitlin – ECE & Data Science | AI for Healthcare"
        width="45%">
 </p>
 
 ## Hi, I’m Caitlin 
 
-I’m an **ECE undergraduate at IIITDM Kancheepuram** and a **BS Data Science and Applications student at IIT Madras**, currently working as a **Research Intern at IIT Madras** with focus in **AI for healthcare, machine learning, and computer vision**.
+I’m an **ECE undergraduate at IIITDM Kancheepuram** and a **BS Data Science and Applications student at IIT Madras**, currently working as a **Research Intern at IIT Madras**.
+
+---
+
+### 🔍 Interests
+- Machine Learning & Deep Learning
+- Computer Vision
+- AI for Healthcare
 
 ---
 
