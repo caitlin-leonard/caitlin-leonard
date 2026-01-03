@@ -1,36 +1,36 @@
 <p align="center">
   <img src="assets/ecg.gif"
        alt="AI for Healthcare – ECG Analysis"
-       width="38%">
+       width="30%">
 </p>
 
-<h2 align="center">AI for Healthcare</h2>
+<h3 align="center">AI for Healthcare</h3>
 
 <p align="center">
-Medical AI • Biomedical Signals • Intelligent Systems
+Medical AI • Biomedical Signals • Machine Learning
 </p>
 
 ---
 
 ### Hi, I’m Caitlin
 
-I’m an **ECE undergraduate** at **IIITDM Kancheepuram**, also pursuing a  
-**BS in Data Science and Applications** from **IIT Madras**.  
-I am currently a **Research Intern at IIT Madras**, working at the intersection
-of **artificial intelligence and healthcare**.
+I’m an **ECE undergraduate at IIITDM Kancheepuram** and a  
+**BS Data Science & Applications student at IIT Madras**, currently a  
+**Research Intern at IIT Madras**.
 
-My focus is on developing **clinically relevant AI systems**, spanning data
-analysis, modeling, and application-oriented deployment.
+I work at the intersection of **machine learning and healthcare**, focusing on
+**biomedical signal analysis, medical imaging, and clinically relevant AI systems**.
 
 ---
 
-### Research Focus
-- **Medical AI & Clinical Decision Support**
-- **Biomedical Signal Processing (ECG, physiological data)**
-- **Computer Vision for Medical Imaging**
-- **Machine Learning & Deep Learning**
+### Focus Areas
+- Medical AI & Clinical Decision Support  
+- Biomedical Signal Processing (ECG, physiological data)  
+- Computer Vision for Medical Imaging  
+- Machine Learning & Deep Learning  
 
 ---
 
 📫 **Connect**  
 - LinkedIn: https://www.linkedin.com/in/caitlin-leonard-36224b289
+
