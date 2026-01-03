@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/welcome.png" alt="Caitlin – ECE & Data Science | AI for Healthcare" width="100%">
+</p>
+
 ## Hi, I’m Caitlin 
 
 I’m an **ECE undergraduate at IIITDM Kancheepuram**,  
