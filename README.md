@@ -1,6 +1,9 @@
-<img src="assets/x.gif"
-     alt="AI for Healthcare"
-     width="32%">
+<p align="center">
+  <img src="assets/x.gif"
+       alt="AI for Healthcare"
+       width="32%">
+</p>
+
 
 
 ## Hi, I’m Caitlin 
