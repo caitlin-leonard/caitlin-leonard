@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/welcome.jpg" alt="Caitlin – ECE & Data Science | AI for Healthcare" width="100%">
+  <img src="assets/welcome.jpg"
+       alt="Caitlin – ECE & Data Science | AI for Healthcare"
+       width="70%" style="max-width: 600px;">
 </p>
 
 ## Hi, I’m Caitlin 
@@ -20,4 +22,5 @@ and I am currently a **Research Intern at IIT Madras**.
 ---
 
 📫 **Connect**
-- LinkedIn: https://www.linkedin.com/in/caitlin-leonard-36224b289
+- LinkedIn: [https://www.linkedin.com/in/caitlin-leonard-36224b289](https://www.linkedin.com/in/caitlin-leonard-36224b289)
+
