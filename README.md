@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ecg.gif"
+  <img src="assets/x.gif"
        alt="AI, Data & Intelligent Systems"
        width="30%">
 </p>
