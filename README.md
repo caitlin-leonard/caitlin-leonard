@@ -13,7 +13,7 @@ Deep Learning for Clinical Applications · Image Segmentation · Biosignal Analy
 
 ### Hi, I'm Caitlin 👋
 
-I specialise in **AI-driven medical imaging** — building deep learning pipelines for segmentation, classification, and clinical decision support across MRI, X-ray, and EEG modalities.
+I specialise in **AI-driven medical imaging** — building deep learning pipelines for segmentation, classification, and clinical decision support across MRI, CT, X-ray, and EEG modalities.
 
 **Medical AI Intern @ Perfint Healthcare** — interventional oncology imaging platform  
 **Research Intern @ Sudha Gopalakrishnan Brain Centre, IIT Madras** — foetal MRI segmentation, stroke MRI analysis  
