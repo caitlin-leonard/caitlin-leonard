@@ -1,13 +1,19 @@
-<p align="center">
-  <img src="assets/ecg.gif"
-       alt="AI Engineering"
-       width="30%">
-</p>
+<div align="center">
 
+<img src="assets/city-night.png" width="100%" alt="City at night">
 
----
+<br><br>
 
-### Hi, I'm Caitlin 👋
+# 🥀 CAITLIN 🥀
 
-📫 [![LinkedIn](https://img.shields.io/badge/LinkedIn-caitlin--s--leonard-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/caitlin-s-leonard-36224b289/)
-[![Medium](https://img.shields.io/badge/Medium-caitlinsimona-black?style=flat&logo=medium)](https://medium.com/@caitlinsimona)
+### AI Engineer · Computer Vision · AI
+
+<br>
+
+## ♡ Connect With Me ♡
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-caitlin--s--leonard-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff9fcf)](https://www.linkedin.com/in/caitlin-s-leonard-36224b289/)
+
+[![Medium](https://img.shields.io/badge/Medium-caitlinsimona-0d0d0d?style=flat-square&logo=medium&logoColor=ff9fcf)](https://medium.com/@caitlinsimona)
+
+</div>
