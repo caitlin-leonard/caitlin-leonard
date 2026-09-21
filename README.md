@@ -1,19 +1,12 @@
-<div align="center">
+# Caitlin
 
-<img src="assets/city-night.png" width="100%" alt="City at night">
+<p align="center">
+  <img src="assets/ecg.gif" width="35%" alt="ECG">
+</p>
 
-<br><br>
+## Connect With Me
 
-# 🥀 CAITLIN 🥀
-
-### AI Engineer · Computer Vision · AI
-
-<br>
-
-## ♡ Connect With Me ♡
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-caitlin--s--leonard-0d0d0d?style=flat-square&logo=linkedin&logoColor=ff9fcf)](https://www.linkedin.com/in/caitlin-s-leonard-36224b289/)
-
-[![Medium](https://img.shields.io/badge/Medium-caitlinsimona-0d0d0d?style=flat-square&logo=medium&logoColor=ff9fcf)](https://medium.com/@caitlinsimona)
-
-</div>
+- [Email](mailto:caitlinsimona@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/caitlin-s-leonard-36224b289/)
+- [GitHub](https://github.com/caitlin-leonard)
+- [Medium](https://medium.com/@caitlinsimona)
