@@ -4,10 +4,6 @@
        width="30%">
 </p>
 
-<h3 align="center">AI Engineer</h3>
-<p align="center">
-Imaging and AI.
-</p>
 
 ---
 
